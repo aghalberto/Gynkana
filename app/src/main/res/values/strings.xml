@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Gynkana</string>
+    <string name="show_position">Mostrar ubicación</string>
+    <string name="pergamo">Librería Pérgamo</string>
+    <string name="aqualand">Aqualand</string>
+    <string name="enter_pass">Password</string>
+    <string name="start">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="password">Password</string>
+    <string name="aqualand_snippet">Mójate los pies en la piscina</string>
+    <string name="bateria">Parque de la batería</string>
+    <string name="bateria_snippet">Sube a lo alto de la torre</string>
+    <string name="carihuela">Playa de la Carihuela</string>
+    <string name="carihuela_snippet">Mójate los pies</string>
+    <string name="cocodrile">Cocodrile Park</string>
+    <string name="cocodrile_snippet">Llama a la puerta</string>
+    <string name="congresos">Palacio de Congresos</string>
+    <string name="congresos_snippet">Busca una fuente</string>
+    <string name="inca">Molino de Inca</string>
+    <string name="kiki">Casa Kiki</string>
+    <string name="picasso">Centro Cultural Pablo Ruíz Picasso</string>
+    <string name="sanmiguel">Palacio San Miguel</string>
+    <string name="inca_snippet">Hazle una foto al molino</string>
+    <string name="kiki_snippet">¿Cuánto vale una palmera de kinder gigante?</string>
+    <string name="pergamo_snippet">Consigue un fanzine gratis</string>
+    <string name="picasso_snippet">Hazte el carné de la biblioteca (si no lo tienes)</string>
+    <string name="sanmiguel_snippet">Busca la salida de incencios</string>
+    <string name="location_permission_denied">Permiso denegado</string>
+    <string name="permission_required_toast">Se requiere permiso</string>
+    <string name="permission_rationale_location">Permiso de localización</string>
+    <string name="rational_location">Permiso de localización</string>
+    <string name="activado">Ubicación activada</string>
+    <string name="desactivado">Ubicación desactivada</string>
+</resources>

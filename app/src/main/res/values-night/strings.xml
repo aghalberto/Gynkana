@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_position">Mostrar ubicación</string>
+    <string name="pergamo">Librería Pérgamo</string>
+    <string name="aqualand">Aqualand</string>
+    <string name="aqualand_snippet">Mójate los pies en la piscina</string>
+    <string name="bateria_snippet">Sube a lo alto de la torre</string>
+    <string name="carihuela">Playa de la Carihuela</string>
+    <string name="carihuela_snippet">Mójate los pies</string>
+    <string name="cocodrile">Cocodrile Park</string>
+    <string name="location_permission_denied">Permiso denegado</string>
+    <string name="permission_required_toast">Se requiere permiso</string>
+</resources>
